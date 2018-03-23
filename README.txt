@@ -1,4 +1,3 @@
-Meu primeiro sistema no git.
+LEIA COM ATENÇÃO:
 
-
-alteração no readme para descrever melhor meu sistema
+estes arquivos estão disponiveis apenas para fins de estudo.
